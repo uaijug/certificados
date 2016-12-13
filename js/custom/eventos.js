@@ -15,7 +15,7 @@ var eventosJsonObject = [
 	},
 	
 	{
-		"nome" : "UaiJUG FrontEnd Day",
+		"nome" : "UaiJUG Last Party",
 		"data" : "19/11/2016",
 		"duracao" :  "12",
 		"id"   : "100003"	
